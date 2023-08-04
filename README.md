@@ -33,5 +33,4 @@ Feel free to clone this repository to your local machine and experiment with the
 ## Getting Started
 
 To get started with data analysis, you will need basic programming knowledge in Python or R. Familiarity with common data manipulation libraries like Pandas, NumPy, and visualization libraries like Matplotlib or Seaborn is beneficial but not mandatory. Each folder contains a README file that guides you through the implementation of the specific technique.
-
-We hope this repository helps you enhance your data analysis skills and encourages you to explore the exciting world of data science. Happy analyzing!
+I hope this repository helps you enhance your data analysis skills and encourages you to explore the exciting world of data science. Happy analyzing!
